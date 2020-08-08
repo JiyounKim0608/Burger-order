@@ -9,4 +9,4 @@ This is burger Builder/Order application using react hook.
   - [npm run eject](#npm-run-eject)
 
 ## Demo
-![alt evens-or-odds](burgerorder.gif)
+![alt evens-or-odds](https://github.com/JiyounKim0608/Burger-order/blob/master/burgerorder.gif)
